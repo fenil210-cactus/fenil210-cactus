@@ -13,7 +13,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fenil210-cactus&show_icons=true&locale=en" alt="fenil210-cactus" />
 </p>
 
-<!-- GitHub Metrics -->
-<p align="center">
-  <img src="https://metrics.lecoq.io/fenil210-cactus" alt="GitHub Metrics" />
-</p>
