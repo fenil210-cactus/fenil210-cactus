@@ -1,20 +1,7 @@
 <p align="center"><a href="https://fenil210.github.io"><img width="80%" alt="Hello, I'm Fenil. I am passionate about AI!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
-
-I'm a self-taught, passionate AI enthusiast from India 🇮🇳
-
-**About me**
-
-- 🎓 Pursuing a Bachelor of Technology in Computer Engineering at [Nirma University](https://nirmauni.ac.in/) :contentReference[oaicite:0]{index=0}
-
-- 💼 Actively exploring Large Language Models (LLMs), Explainable AI, and Federated Learning
-
-- 📈 Contributed to research with 16 publications and 15 citations :contentReference[oaicite:1]{index=1}
-
-- ❤️ I love working on cutting-edge technologies like Machine Learning and Deep Learning :contentReference[oaicite:2]{index=2}
-
-- 💬 Ask me about AI, Machine Learning, or any related topics
+AI enthusiast
 
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="20" alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
