@@ -1,4 +1,4 @@
-<p align="center"><a href="https://fenil210.github.io"><img width="80%" alt="Hello, I'm Fenil. I am passionate about AI!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://fenil210.github.io"><img width="80%" alt="Fenil here!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 AI enthusiast
@@ -9,17 +9,9 @@ AI enthusiast
 <code><img height="20" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" alt="numpy" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png"></code>
 
-| <a href="https://github.com/fenil210/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fenil210&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fenil's github stats" /></a> | <a href="https://github.com/fenil210/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenil210&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/fenil210/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fenil210-cactus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fenil's github stats" /></a> | <a href="https://github.com/fenil210-cactus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenil210-cactus&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-<a href="https://github.com/fenil210/AI-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fenil210&repo=AI-Projects&theme=buefy" />
-</a>
-<a href="https://github.com/fenil210/Machine-Learning-Algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fenil210&repo=Machine-Learning-Algorithms&theme=buefy" />
-</a>
 
 <br />
 <br />
