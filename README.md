@@ -19,12 +19,11 @@
 </p>
 
 <!-- Contribution Graph -->
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fenil210-cactus&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 <!-- GitHub Metrics -->
 <p align="center">
-  <img src="https://github.com/fenil210-cactus/github-metrics" alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/fenil210-cactus" alt="GitHub Metrics" />
 </p>
