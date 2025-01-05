@@ -18,11 +18,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fenil210-cactus&show_icons=true&locale=en" alt="fenil210-cactus" />
 </p>
 
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fenil210-cactus&theme=react-dark" alt="Contribution Graph" />
-</p>
-
 <!-- GitHub Metrics -->
 <p align="center">
   <img src="https://metrics.lecoq.io/fenil210-cactus" alt="GitHub Metrics" />
